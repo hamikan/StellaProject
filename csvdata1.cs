@@ -340,5 +340,5 @@ public class csvdata_sample : MonoBehaviour
 
 public class StarInfo : MonoBehaviour
 {
-    public csvdata.StarData data;
+    public csvdata_sample.StarData data;
 }
